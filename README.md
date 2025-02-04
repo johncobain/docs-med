@@ -83,7 +83,7 @@
 | Feature                       | Flutter                                       | Kotlin (Nativo)                     | Kotlin Multiplatform                       | React Native                                |
 | ----------------------------- | --------------------------------------------- | ----------------------------------- | ------------------------------------------ | ------------------------------------------- |
 | Suporte de Plataforma         | Cross-platform (iOS e Android)                | Apenas Android                      | Lógica Compartilhada, UI nativa            | Cross-platform (iOS e Android)              |
-| Facilidade de Uso             | Simples com pacotes e bibliotecas disponíveis | Curva de aprendizado mais alta      | Moderada a Alta                            | Moderada                                    |
+| Curva de aprendizado            | Simples com pacotes e bibliotecas disponíveis | Curva de aprendizado mais alta      | Moderada a Alta                            | Moderada                                    |
 | Performance                   | Moderado (Limitações da `Skia`)               | Alta (Otimização com GPU)           | Alta (APIs nativas)                        | Moderada (em alguns casos)                  |
 | Velocidade de Desenvolvimento | Prototipação mais rápida                      | Tempo para implementação mais longo | Moderado (lógica compartilhada, UI nativa) | Prototipação e desenvolvimento mais rápidos |
 | Integração com UI             | Boa Integração com a UI do Flutter            | Requer implementação customizada    | Controles nativos (Compose, SwiftUI)       | Boa integração com React UI                 |
